@@ -1,7 +1,6 @@
 import 'package:dansal_app/constent_values/const_colors.dart';
 import 'package:dansal_app/screens/event_add_screeen.dart';
 import 'package:dansal_app/screens/login_screen.dart';
-import 'package:dansal_app/screens/user_register_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:latlong2/latlong.dart';
